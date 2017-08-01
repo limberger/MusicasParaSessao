@@ -33,7 +33,7 @@ pautaAa =
  }
 \addlyrics
 {
-  faz as -- sim, Ó meu Se -- nhor:
+  Faz as -- sim, Ó meu Se -- nhor:
   Tu e eu sem -- pre u -- ni -- dos
   sem -- pre u -- ni -- dos. A
   on -- da do mar des -- faz -- se no mar. A faz -- se no mar.
