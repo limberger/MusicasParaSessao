@@ -1,0 +1,135 @@
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,65,7,S,0
+
+SectionStart,Main
+SoundFileName,LaVemMestreIrineu.ogg,Nix,/home/joao/Música/LaVemMestreIrineu.ogg
+SoundFileInfo,Ogg Vorbis,118K bps.,2,4265327,44100,12718656,288.404898
+Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
+MarkerNumberContinuously,0
+MarkerAutoSection,0
+MarkerAutoMeasure,0
+MarkerAutoBeat,1
+SectionEnd,Main
+
+SectionStart,View0
+FX_Mix,0,0,100,0
+FX_Tuning,1,1,0,0,0,0,60,50,0
+FX_Transposition,1,1,0,0,0
+FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+FX_Speed,1,0,100000,0
+FX_Misc,1,0,50
+ShowTextZone,1
+ShowPianoRoll,0
+PianoRollPiano,1
+PianoRollSensitivity,3
+ShowVideo,1
+TVVZoomPercent,100
+TVVVtimeOffset,0.000000
+TVVVideoMirror,0
+TVVVideoVFlip,0
+ShowNavbar,0
+NavBarMeasures,1
+NavBarMeasuresMenu,1
+ShowSpectrum,1
+ShowGuessNotes,1
+ShowGuessChords,1
+ShowDB,0
+ShowTimeLine,0
+FitWholeFile,0
+FitWholeFileHorizZoom,1.000000
+FitWholeFileStartwavpix,-1
+LoopMode,1
+ScrollMode,1
+PlayZone,4
+PianoBtmNote,24
+PianoTopNote,96
+PianoRollBtmNote,24
+PianoRollTopNote,96
+TextZoneSplitterPos,0.358255
+PianoRollSplitterPos,0.500000
+ViewSplitterPos,0.609108
+VertProfileZoom,1.000000
+HorizProfileZoom,1.000000
+HorizProfilePos,7867
+SelectionLeft,3766686
+SelectionRight,3766686
+SectionEnd,View0
+
+SectionStart,Markers
+Howmany,31
+M,730151,1,1,0,0:00:16.557
+B,747427,1,,0,0:00:16.948
+B,764248,1,,0,0:00:17.330
+B,781070,1,,0,0:00:17.711
+M,796528,0,2 F#,0,0:00:18.062
+B,813349,0,E,0,0:00:18.443
+B,830398,1,,0,0:00:18.830
+B,847447,0,F#,0,0:00:19.216
+M,864269,0,3 E,0,0:00:19.598
+B,882909,1,,0,0:00:20.021
+B,898367,1,,0,0:00:20.371
+B,913370,1,,0,0:00:20.711
+M,932010,0,4 D/F#,0,0:00:21.134
+B,932010,1,,0,0:00:21.134
+B,950423,1,,0,0:00:21.552
+B,966563,1,,0,0:00:21.918
+B,982021,1,,0,0:00:22.268
+M,999752,1,5,0,0:00:22.670
+M,1069311,1,6,0,0:00:24.247
+M,1137280,1,7,0,0:00:25.789
+M,1205248,1,8,0,0:00:27.330
+M,1273899,1,9,0,0:00:28.887
+M,1341640,1,10,0,0:00:30.423
+M,1408927,1,11,0,0:00:31.948
+M,1477123,1,12,0,0:00:33.495
+M,1546228,1,13,0,0:00:35.062
+M,1615788,1,14,0,0:00:36.639
+M,1685802,1,15,0,0:00:38.227
+M,1751725,1,16,0,0:00:39.722
+M,1821739,1,17,0,0:00:41.309
+M,1889026,1,18,0,0:00:42.835
+SectionEnd,Markers
+
+SectionStart,TextBlocks
+TextBlockFont,80,12,,
+Howmany,15
+T,1884025,24,162,Grey,0:00:42.722,La Vem Mestre Irineu ,0
+T,2004504,21,190,Grey,0:00:45.454,Com seu cajado na mão,0
+T,2140896,30,190,Grey,0:00:48.546,Abençoando a todos,0
+T,2278197,37,190,Grey,0:00:51.660,Que estão neste salão,0
+T,2414134,37,190,Grey,0:00:54.742,Nosso Mestre vem Feliz,0
+T,2549162,37,190,Grey,0:00:57.804,Adentrar a nossa festa,0
+T,2689191,43,190,Grey,0:01:00.979,Traz a força da falange,0
+T,2819218,45,190,Grey,0:01:03.928,Dos caboclos da Floresta,0
+T,2976523,47,190,Grey,0:01:07.495,Lá vem mestre Irineu,0
+T,3098366,45,190,Grey,0:01:10.258,Com seu cajado na mão,0
+T,3249761,43,190,Grey,0:01:13.691,Abençoando a todos,0
+T,3370240,47,190,Grey,0:01:16.423,Que estão neste salão,0
+T,3505268,43,190,Grey,0:01:19.485,Nosso mestre vem Feliz,0
+T,3643024,45,190,Grey,0:01:22.608,Adentrar a nossa festa,0
+T,3782143,44,190,Grey,0:01:25.763,Traz a força da falange,0
+SectionEnd,TextBlocks
+
+SectionStart,Loops
+Howmany,20
+L,1,0,0,0,,White,
+L,2,0,0,0,,White,
+L,3,0,0,0,,White,
+L,4,0,0,0,,White,
+L,5,0,0,0,,White,
+L,6,0,0,0,,White,
+L,7,0,0,0,,White,
+L,8,0,0,0,,White,
+L,9,0,0,0,,White,
+L,10,0,0,0,,White,
+L,11,0,0,0,,White,
+L,12,0,0,0,,White,
+L,13,0,0,0,,White,
+L,14,0,0,0,,White,
+L,15,0,0,0,,White,
+L,16,0,0,0,,White,
+L,17,0,0,0,,White,
+L,18,0,0,0,,White,
+L,19,0,0,0,,White,
+L,20,0,0,0,,White,
+SectionEnd,Loops
